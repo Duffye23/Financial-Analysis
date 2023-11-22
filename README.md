@@ -16,7 +16,21 @@ We then checked our portfolio for covariance. As our stocks were from different 
 ![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/57c3fa41-e09f-4c03-8a45-251b09b11a33)</br>
 
 Finally, we built our Monte Carlo simulation for 3 factors: Simulated Rate of Return % for 30 days, Simulated RoR% for 1 year, and Simulated individual stock prices based on volatility and returns.</br>
+
 Each simulation was run 1000 times.</br>
+![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/78a2a759-1e47-48ea-963c-139bb99d0e18)</br>
+![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/a173d6b1-e5c3-402a-98b7-c0e5a5db7853)</br>
+![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/29614f10-1f8e-4a5d-b57c-8657afb2ecb0)</br>
+![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/b197832f-fde7-44a3-a6e5-96b8d65892b7)</br>
+![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/d4437a7b-2648-4626-a8f1-0ab88795d266)</br>
+
+We then presented our findings via a pitch to our class. What would you have invested into our group? What 3 stocks would you have selected? 
+
+
+
+
+
+
 
 
 
