@@ -24,17 +24,8 @@ Each simulation was run 1000 times.</br>
 ![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/b197832f-fde7-44a3-a6e5-96b8d65892b7)</br>
 ![image](https://github.com/Duffye23/Financial-Analysis/assets/58863493/d4437a7b-2648-4626-a8f1-0ab88795d266)</br>
 
-We then presented our findings via a pitch to our class. What would you have invested into our group? What 3 stocks would you have selected? 
-
-
-
-
-
-
-
-
-
-
+We then presented our findings via a pitch to our class. What would you have invested into our group? What 3 stocks would you have selected? </br>
+Project was run on Python version 3.7.6</br>
 
 
 Contributing Authors: emmusic, MeloMaps, Ramatuay, alice43 and myself
